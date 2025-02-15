@@ -1,3 +1,3 @@
-def abhi(){
-  echo "hello abhinav from shared library "
+def run() {
+    echo "Running abhi.groovy"
 }
